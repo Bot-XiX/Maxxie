@@ -1,0 +1,131 @@
+21:57:49.499 INFO  Loading events... 
+21:57:51.670 INFO  Loaded 21 events. Success (21) Failed (0) 
+21:57:51.672 INFO  Loading slash commands... 
+21:57:52.022 INFO  Loaded 72 slash commands 
+21:57:52.024 INFO  Loading contexts... 
+21:57:52.033 INFO  Loaded 2 USER contexts 
+21:57:52.034 INFO  Loaded 0 MESSAGE contexts 
+21:57:52.476 INFO  VersionCheck: Your discord bot is up to date 
+21:57:52.479 INFO  Validating config.js and environment variables 
+21:57:52.482 WARN  env: WEATHERSTACK_KEY is missing. Weather command won't work 
+21:57:52.483 WARN  config.js: OWNER_IDS are empty 
+21:57:52.484 INFO  Launching dashboard 
+21:57:55.515 INFO  Connecting to MongoDb... 
+21:57:55.525 INFO  Dashboard is listening on port 8080 
+21:57:56.091 INFO  Mongoose: Database connection established 
+21:57:56.676 INFO  Logged in as Maxxie#2733! (906013982844923965) 
+21:57:56.678 INFO  Initializing music manager 
+21:57:56.686 INFO  Testing Mode: Skipping Global Commands 
+21:57:56.817 INFO  Guilds with invite tracking: 0 
+21:57:56.819 INFO  Guilds with counter channels: 0 
+21:57:56.822 INFO  Ready to serve 1 guilds! 
+21:57:56.989 INFO  Node "Something Host" connected 
+21:57:57.048 INFO  Node "DBL Lavalink" connected 
+22:03:32.995 INFO  Loading events... 
+22:03:33.120 INFO  Loaded 21 events. Success (21) Failed (0) 
+22:03:33.122 INFO  Loading slash commands... 
+22:03:33.395 INFO  Loaded 72 slash commands 
+22:03:33.398 INFO  Loading contexts... 
+22:03:33.408 INFO  Loaded 2 USER contexts 
+22:03:33.410 INFO  Loaded 0 MESSAGE contexts 
+22:03:34.852 INFO  VersionCheck: Your discord bot is up to date 
+22:03:34.854 INFO  Validating config.js and environment variables 
+22:03:34.857 WARN  env: WEATHERSTACK_KEY is missing. Weather command won't work 
+22:03:34.858 WARN  config.js: OWNER_IDS are empty 
+22:03:34.859 INFO  Connecting to MongoDb... 
+22:03:35.338 INFO  Mongoose: Database connection established 
+22:03:35.783 INFO  Logged in as Maxxie#2733! (906013982844923965) 
+22:03:35.785 INFO  Initializing music manager 
+22:03:35.792 INFO  Testing Mode: Skipping Global Commands 
+22:03:35.923 INFO  Guilds with invite tracking: 0 
+22:03:35.925 INFO  Guilds with counter channels: 0 
+22:03:35.927 INFO  Ready to serve 1 guilds! 
+22:03:36.105 INFO  Node "Something Host" connected 
+22:03:36.137 INFO  Node "DBL Lavalink" connected 
+22:21:36.452 WARN  Node "DBL Lavalink" is reconnecting 
+22:23:37.147 ERROR Unexpected server response: 502
+{}
+Error: Unexpected server response: 502
+    at ClientRequest.<anonymous> (C:\Users\elfbr\Downloads\discord-js-bot-4.0.0-prerelease\discord-js-bot-4.0.0-prerelease\node_modules\erela.js\node_modules\ws\lib\websocket.js:716:7)
+    at ClientRequest.emit (node:events:394:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (node:_http_client:621:27)
+    at HTTPParser.parserOnHeadersComplete (node:_http_common:128:17)
+    at TLSSocket.socketOnData (node:_http_client:487:22)
+    at TLSSocket.emit (node:events:394:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at TLSSocket.Readable.push (node:internal/streams/readable:228:10)
+    at TLSWrap.onStreamRead (node:internal/stream_base_commons:199:23) 
+22:23:40.495 WARN  Node "DBL Lavalink" is reconnecting 
+22:25:40.713 ERROR Unexpected server response: 502
+{}
+Error: Unexpected server response: 502
+    at ClientRequest.<anonymous> (C:\Users\elfbr\Downloads\discord-js-bot-4.0.0-prerelease\discord-js-bot-4.0.0-prerelease\node_modules\erela.js\node_modules\ws\lib\websocket.js:716:7)
+    at ClientRequest.emit (node:events:394:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (node:_http_client:621:27)
+    at HTTPParser.parserOnHeadersComplete (node:_http_common:128:17)
+    at TLSSocket.socketOnData (node:_http_client:487:22)
+    at TLSSocket.emit (node:events:394:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at TLSSocket.Readable.push (node:internal/streams/readable:228:10)
+    at TLSWrap.onStreamRead (node:internal/stream_base_commons:199:23) 
+22:25:43.833 WARN  Node "DBL Lavalink" is reconnecting 
+22:26:34.822 INFO  Loading events... 
+22:26:35.047 INFO  Loaded 21 events. Success (21) Failed (0) 
+22:26:35.048 INFO  Loading slash commands... 
+22:26:35.344 INFO  Loaded 72 slash commands 
+22:26:35.346 INFO  Loading contexts... 
+22:26:35.354 INFO  Loaded 2 USER contexts 
+22:26:35.355 INFO  Loaded 0 MESSAGE contexts 
+22:26:36.240 INFO  VersionCheck: Your discord bot is up to date 
+22:26:36.242 INFO  Validating config.js and environment variables 
+22:26:36.245 WARN  env: WEATHERSTACK_KEY is missing. Weather command won't work 
+22:26:36.246 WARN  config.js: OWNER_IDS are empty 
+22:26:36.247 INFO  Connecting to MongoDb... 
+22:26:36.680 INFO  Mongoose: Database connection established 
+22:26:37.225 INFO  Logged in as Maxxie#2733! (906013982844923965) 
+22:26:37.228 INFO  Initializing music manager 
+22:26:37.235 INFO  Testing Mode: Skipping Global Commands 
+22:26:37.371 INFO  Guilds with invite tracking: 0 
+22:26:37.373 INFO  Guilds with counter channels: 0 
+22:26:37.377 INFO  Ready to serve 1 guilds! 
+22:26:37.536 INFO  Node "Something Host" connected 
+22:28:37.405 ERROR Unexpected server response: 502
+{}
+Error: Unexpected server response: 502
+    at ClientRequest.<anonymous> (C:\Users\elfbr\Downloads\discord-js-bot-4.0.0-prerelease\discord-js-bot-4.0.0-prerelease\node_modules\erela.js\node_modules\ws\lib\websocket.js:716:7)
+    at ClientRequest.emit (node:events:394:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (node:_http_client:621:27)
+    at HTTPParser.parserOnHeadersComplete (node:_http_common:128:17)
+    at TLSSocket.socketOnData (node:_http_client:487:22)
+    at TLSSocket.emit (node:events:394:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at TLSSocket.Readable.push (node:internal/streams/readable:228:10)
+    at TLSWrap.onStreamRead (node:internal/stream_base_commons:199:23) 
+22:28:40.420 WARN  Node "DBL Lavalink" is reconnecting 
+22:29:00.886 INFO  Node "DBL Lavalink" connected 
+23:59:15.340 INFO  Loading events... 
+23:59:15.630 INFO  Loaded 21 events. Success (21) Failed (0) 
+23:59:15.635 INFO  Loading slash commands... 
+23:59:18.666 INFO  Loaded 72 slash commands 
+23:59:18.669 INFO  Loading contexts... 
+23:59:18.728 INFO  Loaded 2 USER contexts 
+23:59:18.731 INFO  Loaded 0 MESSAGE contexts 
+23:59:19.517 INFO  VersionCheck: Your discord bot is up to date 
+23:59:19.519 INFO  Validating config.js and environment variables 
+23:59:19.523 WARN  env: WEATHERSTACK_KEY is missing. Weather command won't work 
+23:59:19.524 WARN  config.js: OWNER_IDS are empty 
+23:59:19.526 INFO  Connecting to MongoDb... 
+23:59:20.095 INFO  Mongoose: Database connection established 
+23:59:22.716 INFO  Logged in as Maxxie#2733! (906013982844923965) 
+23:59:22.719 INFO  Initializing music manager 
+23:59:22.995 INFO  Node "Something Host" connected 
+23:59:23.164 INFO  Node "DBL Lavalink" connected 
+23:59:23.479 INFO  Successfully registered global interactions 
+23:59:25.149 INFO  Guilds with invite tracking: 0 
+23:59:25.152 INFO  Guilds with counter channels: 0 
+23:59:25.155 INFO  Ready to serve 1 guilds! 
+23:59:25.217 DEBUG Syncing slash command permissions in 905975867778420747 
+

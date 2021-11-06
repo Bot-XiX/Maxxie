@@ -1,0 +1,1153 @@
+00:01:59.457 INFO  Loading events... 
+00:01:59.674 INFO  Loaded 21 events. Success (21) Failed (0) 
+00:01:59.680 INFO  Loading slash commands... 
+00:02:00.247 INFO  Loaded 72 slash commands 
+00:02:00.262 INFO  Loading contexts... 
+00:02:00.280 INFO  Loaded 2 USER contexts 
+00:02:00.286 INFO  Loaded 0 MESSAGE contexts 
+00:02:08.225 INFO  Loading events... 
+00:02:08.367 INFO  Loaded 21 events. Success (21) Failed (0) 
+00:02:08.368 INFO  Loading slash commands... 
+00:02:08.561 INFO  Loaded 72 slash commands 
+00:02:08.563 INFO  Loading contexts... 
+00:02:08.570 INFO  Loaded 2 USER contexts 
+00:02:08.571 INFO  Loaded 0 MESSAGE contexts 
+00:02:09.592 INFO  VersionCheck: Your discord bot is up to date 
+00:02:09.595 INFO  Validating config.js and environment variables 
+00:02:09.596 WARN  env: WEATHERSTACK_KEY is missing. Weather command won't work 
+00:02:09.598 WARN  config.js: OWNER_IDS are empty 
+00:02:09.599 INFO  Launching dashboard 
+00:02:18.310 INFO  Connecting to MongoDb... 
+00:02:18.323 INFO  Dashboard is listening on port 8080 
+00:02:18.766 INFO  Mongoose: Database connection established 
+00:02:19.195 INFO  Logged in as Maxxie#2733! (906013982844923965) 
+00:02:19.199 INFO  Initializing music manager 
+00:02:19.208 INFO  Testing Mode: Skipping Global Commands 
+00:02:19.339 INFO  Guilds with invite tracking: 0 
+00:02:19.341 INFO  Guilds with counter channels: 0 
+00:02:19.343 INFO  Ready to serve 1 guilds! 
+00:02:19.438 INFO  Node "DBL Lavalink" connected 
+00:02:19.465 INFO  Node "Something Host" connected 
+00:02:25.896 INFO  Loading events... 
+00:02:26.032 INFO  Loaded 21 events. Success (21) Failed (0) 
+00:02:26.034 INFO  Loading slash commands... 
+00:02:26.226 INFO  Loaded 72 slash commands 
+00:02:26.229 INFO  Loading contexts... 
+00:02:26.238 INFO  Loaded 2 USER contexts 
+00:02:26.239 INFO  Loaded 0 MESSAGE contexts 
+00:02:26.795 INFO  VersionCheck: Your discord bot is up to date 
+00:02:26.800 INFO  Validating config.js and environment variables 
+00:02:26.802 WARN  env: WEATHERSTACK_KEY is missing. Weather command won't work 
+00:02:26.804 INFO  Launching dashboard 
+00:02:27.182 INFO  Connecting to MongoDb... 
+00:02:27.195 INFO  Dashboard is listening on port 8080 
+00:02:27.593 INFO  Mongoose: Database connection established 
+00:02:28.125 INFO  Logged in as Maxxie#2733! (906013982844923965) 
+00:02:28.127 INFO  Initializing music manager 
+00:02:28.134 INFO  Testing Mode: Skipping Global Commands 
+00:02:28.258 INFO  Guilds with invite tracking: 0 
+00:02:28.318 INFO  Guilds with counter channels: 0 
+00:02:28.327 INFO  Ready to serve 1 guilds! 
+00:02:28.345 INFO  Node "DBL Lavalink" connected 
+00:02:28.415 INFO  Node "Something Host" connected 
+00:04:37.164 INFO  Loading events... 
+00:04:37.303 INFO  Loaded 21 events. Success (21) Failed (0) 
+00:04:37.305 INFO  Loading slash commands... 
+00:04:37.517 INFO  Loaded 72 slash commands 
+00:04:37.520 INFO  Loading contexts... 
+00:04:37.534 INFO  Loaded 2 USER contexts 
+00:04:37.539 INFO  Loaded 0 MESSAGE contexts 
+00:04:38.188 INFO  VersionCheck: Your discord bot is up to date 
+00:04:38.199 INFO  Validating config.js and environment variables 
+00:04:38.201 WARN  env: WEATHERSTACK_KEY is missing. Weather command won't work 
+00:04:38.202 INFO  Launching dashboard 
+00:04:38.805 INFO  Connecting to MongoDb... 
+00:04:38.820 INFO  Dashboard is listening on port 8080 
+00:04:39.334 INFO  Mongoose: Database connection established 
+00:04:39.834 INFO  Logged in as Maxxie#2733! (906013982844923965) 
+00:04:39.840 INFO  Initializing music manager 
+00:04:39.848 INFO  Testing Mode: Skipping Global Commands 
+00:04:40.050 INFO  Guilds with invite tracking: 0 
+00:04:40.052 INFO  Guilds with counter channels: 0 
+00:04:40.055 INFO  Ready to serve 1 guilds! 
+00:04:40.157 INFO  Node "Something Host" connected 
+00:04:40.176 INFO  Node "DBL Lavalink" connected 
+00:06:29.801 INFO  Loading events... 
+00:06:29.959 INFO  Loaded 21 events. Success (21) Failed (0) 
+00:06:29.960 INFO  Loading slash commands... 
+00:06:30.307 INFO  Loaded 72 slash commands 
+00:06:30.309 INFO  Loading contexts... 
+00:06:30.316 INFO  Loaded 2 USER contexts 
+00:06:30.317 INFO  Loaded 0 MESSAGE contexts 
+00:06:30.717 INFO  VersionCheck: Your discord bot is up to date 
+00:06:30.722 INFO  Validating config.js and environment variables 
+00:06:30.723 WARN  env: WEATHERSTACK_KEY is missing. Weather command won't work 
+00:06:30.725 INFO  Launching dashboard 
+00:06:31.102 INFO  Connecting to MongoDb... 
+00:06:31.111 INFO  Dashboard is listening on port 8080 
+00:06:31.555 INFO  Mongoose: Database connection established 
+00:06:32.063 INFO  Logged in as Maxxie#2733! (906013982844923965) 
+00:06:32.065 INFO  Initializing music manager 
+00:06:32.073 INFO  Testing Mode: Skipping Global Commands 
+00:06:32.216 INFO  Guilds with invite tracking: 0 
+00:06:32.218 INFO  Guilds with counter channels: 0 
+00:06:32.221 INFO  Ready to serve 1 guilds! 
+00:06:32.340 INFO  Node "Something Host" connected 
+00:06:32.388 INFO  Node "DBL Lavalink" connected 
+00:07:45.706 INFO  Loading events... 
+00:07:45.845 INFO  Loaded 21 events. Success (21) Failed (0) 
+00:07:45.846 INFO  Loading slash commands... 
+00:07:46.087 INFO  Loaded 72 slash commands 
+00:07:46.088 INFO  Loading contexts... 
+00:07:46.096 INFO  Loaded 2 USER contexts 
+00:07:46.097 INFO  Loaded 0 MESSAGE contexts 
+00:07:47.566 INFO  VersionCheck: Your discord bot is up to date 
+00:07:47.569 INFO  Validating config.js and environment variables 
+00:07:47.577 WARN  env: WEATHERSTACK_KEY is missing. Weather command won't work 
+00:07:47.580 INFO  Launching dashboard 
+00:07:48.458 INFO  Connecting to MongoDb... 
+00:07:48.554 INFO  Dashboard is listening on port 8080 
+00:07:49.067 INFO  Mongoose: Database connection established 
+00:07:49.530 INFO  Logged in as Maxxie#2733! (906013982844923965) 
+00:07:49.531 INFO  Initializing music manager 
+00:07:49.538 INFO  Testing Mode: Skipping Global Commands 
+00:07:49.681 INFO  Guilds with invite tracking: 0 
+00:07:49.682 INFO  Guilds with counter channels: 0 
+00:07:49.685 INFO  Ready to serve 1 guilds! 
+00:07:49.797 INFO  Node "Something Host" connected 
+00:07:50.708 INFO  Node "DBL Lavalink" connected 
+00:11:24.366 INFO  Loading events... 
+00:11:24.858 INFO  Loaded 21 events. Success (21) Failed (0) 
+00:11:24.859 INFO  Loading slash commands... 
+00:11:25.200 INFO  Loaded 72 slash commands 
+00:11:25.204 INFO  Loading contexts... 
+00:11:25.215 INFO  Loaded 2 USER contexts 
+00:11:25.218 INFO  Loaded 0 MESSAGE contexts 
+00:11:26.453 INFO  VersionCheck: Your discord bot is up to date 
+00:11:26.460 INFO  Validating config.js and environment variables 
+00:11:26.462 WARN  env: WEATHERSTACK_KEY is missing. Weather command won't work 
+00:11:26.464 INFO  Launching dashboard 
+00:11:27.179 INFO  Connecting to MongoDb... 
+00:11:27.194 INFO  Dashboard is listening on port 8080 
+00:11:27.251 ERROR Cannot read property 'id' of null
+{}
+TypeError: Cannot read property 'id' of null
+    at C:\Users\elfbr\Downloads\discord-js-bot-4.0.0-prerelease\discord-js-bot-4.0.0-prerelease\dashboard\routes\discord.js:12:25
+    at Layer.handle [as handle_request] (C:\Users\elfbr\Downloads\discord-js-bot-4.0.0-prerelease\discord-js-bot-4.0.0-prerelease\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\elfbr\Downloads\discord-js-bot-4.0.0-prerelease\discord-js-bot-4.0.0-prerelease\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\elfbr\Downloads\discord-js-bot-4.0.0-prerelease\discord-js-bot-4.0.0-prerelease\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\elfbr\Downloads\discord-js-bot-4.0.0-prerelease\discord-js-bot-4.0.0-prerelease\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\elfbr\Downloads\discord-js-bot-4.0.0-prerelease\discord-js-bot-4.0.0-prerelease\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\elfbr\Downloads\discord-js-bot-4.0.0-prerelease\discord-js-bot-4.0.0-prerelease\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\elfbr\Downloads\discord-js-bot-4.0.0-prerelease\discord-js-bot-4.0.0-prerelease\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\elfbr\Downloads\discord-js-bot-4.0.0-prerelease\discord-js-bot-4.0.0-prerelease\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\elfbr\Downloads\discord-js-bot-4.0.0-prerelease\discord-js-bot-4.0.0-prerelease\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\elfbr\Downloads\discord-js-bot-4.0.0-prerelease\discord-js-bot-4.0.0-prerelease\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\elfbr\Downloads\discord-js-bot-4.0.0-prerelease\discord-js-bot-4.0.0-prerelease\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\elfbr\Downloads\discord-js-bot-4.0.0-prerelease\discord-js-bot-4.0.0-prerelease\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\elfbr\Downloads\discord-js-bot-4.0.0-prerelease\discord-js-bot-4.0.0-prerelease\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\elfbr\Downloads\discord-js-bot-4.0.0-prerelease\discord-js-bot-4.0.0-prerelease\node_modules\express\lib\router\index.js:275:10)
+    at C:\Users\elfbr\Downloads\discord-js-bot-4.0.0-prerelease\discord-js-bot-4.0.0-prerelease\dashboard\app.js:36:7 
+00:11:27.734 INFO  Mongoose: Database connection established 
+00:11:28.136 INFO  Logged in as Maxxie#2733! (906013982844923965) 
+00:11:28.143 INFO  Initializing music manager 
+00:11:28.149 INFO  Testing Mode: Skipping Global Commands 
+00:11:28.281 INFO  Guilds with invite tracking: 0 
+00:11:28.286 INFO  Guilds with counter channels: 0 
+00:11:28.289 INFO  Ready to serve 1 guilds! 
+00:11:28.429 INFO  Node "Something Host" connected 
+00:11:28.462 INFO  Node "DBL Lavalink" connected 
+00:11:57.217 INFO  Loading events... 
+00:11:57.362 INFO  Loaded 21 events. Success (21) Failed (0) 
+00:11:57.363 INFO  Loading slash commands... 
+00:11:57.588 INFO  Loaded 72 slash commands 
+00:11:57.590 INFO  Loading contexts... 
+00:11:57.597 INFO  Loaded 2 USER contexts 
+00:11:57.601 INFO  Loaded 0 MESSAGE contexts 
+00:11:58.725 INFO  VersionCheck: Your discord bot is up to date 
+00:11:58.727 INFO  Validating config.js and environment variables 
+00:11:58.730 WARN  env: WEATHERSTACK_KEY is missing. Weather command won't work 
+00:11:58.731 INFO  Launching dashboard 
+00:11:59.181 INFO  Connecting to MongoDb... 
+00:11:59.205 INFO  Dashboard is listening on port 8080 
+00:11:59.824 INFO  Mongoose: Database connection established 
+00:12:00.208 INFO  Logged in as Maxxie#2733! (906013982844923965) 
+00:12:00.210 INFO  Initializing music manager 
+00:12:00.218 INFO  Testing Mode: Skipping Global Commands 
+00:12:00.343 INFO  Guilds with invite tracking: 0 
+00:12:00.345 INFO  Guilds with counter channels: 0 
+00:12:00.348 INFO  Ready to serve 1 guilds! 
+00:12:00.379 INFO  Node "DBL Lavalink" connected 
+00:12:00.474 INFO  Node "Something Host" connected 
+00:14:53.040 INFO  Loading events... 
+00:14:53.198 INFO  Loaded 21 events. Success (21) Failed (0) 
+00:14:53.200 INFO  Loading slash commands... 
+00:14:53.399 INFO  Loaded 72 slash commands 
+00:14:53.402 INFO  Loading contexts... 
+00:14:53.408 INFO  Loaded 2 USER contexts 
+00:14:53.409 INFO  Loaded 0 MESSAGE contexts 
+00:14:54.076 INFO  VersionCheck: Your discord bot is up to date 
+00:14:54.077 INFO  Validating config.js and environment variables 
+00:14:54.078 WARN  env: WEATHERSTACK_KEY is missing. Weather command won't work 
+00:14:54.079 INFO  Launching dashboard 
+00:14:54.717 INFO  Connecting to MongoDb... 
+00:14:54.747 INFO  Dashboard is listening on port 8080 
+00:14:55.209 INFO  Mongoose: Database connection established 
+00:14:56.211 INFO  Logged in as Maxxie#2733! (906013982844923965) 
+00:14:56.214 INFO  Initializing music manager 
+00:14:56.220 INFO  Testing Mode: Skipping Global Commands 
+00:14:56.357 INFO  Guilds with invite tracking: 0 
+00:14:56.359 INFO  Guilds with counter channels: 0 
+00:14:56.362 INFO  Ready to serve 1 guilds! 
+00:14:56.474 INFO  Node "Something Host" connected 
+00:15:01.104 ERROR getaddrinfo EAI_AGAIN disbotlistlavalink.ml
+{"errno":-3001,"code":"EAI_AGAIN","syscall":"getaddrinfo","hostname":"disbotlistlavalink.ml"}
+Error: getaddrinfo EAI_AGAIN disbotlistlavalink.ml
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26) 
+00:15:04.175 WARN  Node "DBL Lavalink" is reconnecting 
+00:15:06.150 INFO  Node "DBL Lavalink" connected 
+00:17:49.013 INFO  Loading events... 
+00:17:49.154 INFO  Loaded 21 events. Success (21) Failed (0) 
+00:17:49.156 INFO  Loading slash commands... 
+00:17:49.337 INFO  Loaded 72 slash commands 
+00:17:49.339 INFO  Loading contexts... 
+00:17:49.346 INFO  Loaded 2 USER contexts 
+00:17:49.347 INFO  Loaded 0 MESSAGE contexts 
+00:17:50.624 INFO  VersionCheck: Your discord bot is up to date 
+00:17:50.626 INFO  Validating config.js and environment variables 
+00:17:50.628 WARN  env: WEATHERSTACK_KEY is missing. Weather command won't work 
+00:17:50.631 INFO  Connecting to MongoDb... 
+00:17:51.300 INFO  Mongoose: Database connection established 
+00:17:51.933 INFO  Logged in as Maxxie#2733! (906013982844923965) 
+00:17:51.935 INFO  Initializing music manager 
+00:17:51.946 INFO  Testing Mode: Skipping Global Commands 
+00:17:52.089 INFO  Guilds with invite tracking: 0 
+00:17:52.094 INFO  Guilds with counter channels: 0 
+00:17:52.096 INFO  Ready to serve 1 guilds! 
+00:17:52.215 INFO  Node "DBL Lavalink" connected 
+00:17:52.273 INFO  Node "Something Host" connected 
+00:18:47.877 INFO  Guild Left: Doggo's Studio Members: 12 
+00:19:02.922 INFO  Guild Joined: Doggo's Studio Members: 12 
+00:26:11.511 INFO  Loading events... 
+00:26:11.647 INFO  Loaded 21 events. Success (21) Failed (0) 
+00:26:11.648 INFO  Loading slash commands... 
+00:26:11.846 INFO  Loaded 72 slash commands 
+00:26:11.848 INFO  Loading contexts... 
+00:26:11.855 INFO  Loaded 2 USER contexts 
+00:26:11.856 INFO  Loaded 0 MESSAGE contexts 
+00:26:14.068 INFO  VersionCheck: Your discord bot is up to date 
+00:26:14.070 INFO  Validating config.js and environment variables 
+00:26:14.074 WARN  env: WEATHERSTACK_KEY is missing. Weather command won't work 
+00:26:14.075 INFO  Connecting to MongoDb... 
+00:26:14.589 INFO  Mongoose: Database connection established 
+00:26:15.201 INFO  Logged in as Maxxie#2733! (906013982844923965) 
+00:26:15.204 INFO  Initializing music manager 
+00:26:15.210 INFO  Testing Mode: Skipping Global Commands 
+00:26:15.351 INFO  Guilds with invite tracking: 0 
+00:26:15.353 INFO  Guilds with counter channels: 0 
+00:26:15.356 INFO  Ready to serve 1 guilds! 
+00:26:15.533 INFO  Node "Something Host" connected 
+00:26:15.553 INFO  Node "DBL Lavalink" connected 
+00:26:38.431 INFO  Loading events... 
+00:26:38.568 INFO  Loaded 21 events. Success (21) Failed (0) 
+00:26:38.570 INFO  Loading slash commands... 
+00:26:38.754 INFO  Loaded 72 slash commands 
+00:26:38.756 INFO  Loading contexts... 
+00:26:38.764 INFO  Loaded 2 USER contexts 
+00:26:38.765 INFO  Loaded 0 MESSAGE contexts 
+00:26:41.088 INFO  VersionCheck: Your discord bot is up to date 
+00:26:41.091 INFO  Validating config.js and environment variables 
+00:26:41.094 WARN  env: WEATHERSTACK_KEY is missing. Weather command won't work 
+00:26:41.097 INFO  Connecting to MongoDb... 
+00:26:41.607 INFO  Mongoose: Database connection established 
+00:26:42.068 INFO  Logged in as Maxxie#2733! (906013982844923965) 
+00:26:42.069 INFO  Initializing music manager 
+00:26:42.076 INFO  Testing Mode: Skipping Global Commands 
+00:26:42.215 INFO  Guilds with invite tracking: 0 
+00:26:42.217 INFO  Guilds with counter channels: 0 
+00:26:42.219 INFO  Ready to serve 1 guilds! 
+00:26:42.259 INFO  Node "DBL Lavalink" connected 
+00:26:42.348 INFO  Node "Something Host" connected 
+00:27:28.871 INFO  Loading events... 
+00:27:29.182 INFO  Loaded 21 events. Success (21) Failed (0) 
+00:27:29.184 INFO  Loading slash commands... 
+00:27:29.495 INFO  Loaded 72 slash commands 
+00:27:29.496 INFO  Loading contexts... 
+00:27:29.503 INFO  Loaded 2 USER contexts 
+00:27:29.504 INFO  Loaded 0 MESSAGE contexts 
+00:27:30.616 INFO  VersionCheck: Your discord bot is up to date 
+00:27:30.617 INFO  Validating config.js and environment variables 
+00:27:30.618 WARN  env: WEATHERSTACK_KEY is missing. Weather command won't work 
+00:27:30.619 INFO  Connecting to MongoDb... 
+00:27:31.118 INFO  Mongoose: Database connection established 
+00:27:31.578 INFO  Logged in as Maxxie#2733! (906013982844923965) 
+00:27:31.580 INFO  Initializing music manager 
+00:27:31.587 INFO  Testing Mode: Skipping Global Commands 
+00:27:31.767 INFO  Guilds with invite tracking: 0 
+00:27:31.768 INFO  Guilds with counter channels: 0 
+00:27:31.774 INFO  Ready to serve 1 guilds! 
+00:27:32.004 INFO  Node "Something Host" connected 
+00:27:32.031 INFO  Node "DBL Lavalink" connected 
+00:34:55.549 INFO  Loading events... 
+00:34:55.680 INFO  Loaded 21 events. Success (21) Failed (0) 
+00:34:55.681 INFO  Loading slash commands... 
+00:34:55.867 INFO  Loaded 72 slash commands 
+00:34:55.869 INFO  Loading contexts... 
+00:34:55.876 INFO  Loaded 2 USER contexts 
+00:34:55.877 INFO  Loaded 0 MESSAGE contexts 
+00:34:57.008 INFO  VersionCheck: Your discord bot is up to date 
+00:34:57.014 INFO  Validating config.js and environment variables 
+00:34:57.016 WARN  env: WEATHERSTACK_KEY is missing. Weather command won't work 
+00:34:57.021 INFO  Connecting to MongoDb... 
+00:34:57.490 INFO  Mongoose: Database connection established 
+00:34:58.111 INFO  Logged in as Maxxie#2733! (906013982844923965) 
+00:34:58.116 INFO  Initializing music manager 
+00:34:58.147 INFO  Testing Mode: Skipping Global Commands 
+00:34:58.284 INFO  Guilds with invite tracking: 0 
+00:34:58.285 INFO  Guilds with counter channels: 0 
+00:34:58.286 INFO  Ready to serve 1 guilds! 
+00:34:58.460 INFO  Node "Something Host" connected 
+00:34:58.480 INFO  Node "DBL Lavalink" connected 
+02:47:10.097 INFO  Loading events... 
+02:47:10.368 INFO  Loaded 21 events. Success (21) Failed (0) 
+02:47:10.369 INFO  Loading slash commands... 
+02:47:10.833 INFO  Loaded 72 slash commands 
+02:47:10.836 INFO  Loading contexts... 
+02:47:10.846 INFO  Loaded 2 USER contexts 
+02:47:10.848 INFO  Loaded 0 MESSAGE contexts 
+02:47:11.291 INFO  VersionCheck: Your discord bot is up to date 
+02:47:11.293 INFO  Validating config.js and environment variables 
+02:47:11.296 WARN  env: WEATHERSTACK_KEY is missing. Weather command won't work 
+02:47:11.297 INFO  Connecting to MongoDb... 
+02:47:11.730 INFO  Mongoose: Database connection established 
+02:47:12.343 INFO  Logged in as Maxxie#2733! (906013982844923965) 
+02:47:12.352 INFO  Initializing music manager 
+02:47:12.362 INFO  Testing Mode: Skipping Global Commands 
+02:47:12.483 INFO  Guilds with invite tracking: 0 
+02:47:12.485 INFO  Guilds with counter channels: 0 
+02:47:12.488 INFO  Ready to serve 1 guilds! 
+02:47:12.658 INFO  Node "Something Host" connected 
+02:47:12.700 INFO  Node "DBL Lavalink" connected 
+02:53:08.478 INFO  Loading events... 
+02:53:08.648 INFO  Loaded 21 events. Success (21) Failed (0) 
+02:53:08.650 INFO  Loading slash commands... 
+02:53:08.820 INFO  Loaded 72 slash commands 
+02:53:08.822 INFO  Loading contexts... 
+02:53:08.828 INFO  Loaded 2 USER contexts 
+02:53:08.829 INFO  Loaded 0 MESSAGE contexts 
+02:53:09.439 INFO  VersionCheck: Your discord bot is up to date 
+02:53:09.441 INFO  Validating config.js and environment variables 
+02:53:09.444 WARN  env: WEATHERSTACK_KEY is missing. Weather command won't work 
+02:53:09.445 INFO  Connecting to MongoDb... 
+02:53:09.891 INFO  Mongoose: Database connection established 
+02:53:10.512 INFO  Logged in as Maxxie#2733! (906013982844923965) 
+02:53:10.514 INFO  Initializing music manager 
+02:53:10.524 INFO  Testing Mode: Skipping Global Commands 
+02:53:10.645 INFO  Guilds with invite tracking: 0 
+02:53:10.647 INFO  Guilds with counter channels: 0 
+02:53:10.650 INFO  Ready to serve 1 guilds! 
+02:53:10.787 INFO  Node "Something Host" connected 
+02:53:10.852 INFO  Node "DBL Lavalink" connected 
+02:53:33.577 INFO  Loading events... 
+02:53:33.693 INFO  Loaded 21 events. Success (21) Failed (0) 
+02:53:33.694 INFO  Loading slash commands... 
+02:53:33.871 INFO  Loaded 72 slash commands 
+02:53:33.873 INFO  Loading contexts... 
+02:53:33.879 INFO  Loaded 2 USER contexts 
+02:53:33.880 INFO  Loaded 0 MESSAGE contexts 
+02:53:34.292 INFO  VersionCheck: Your discord bot is up to date 
+02:53:34.294 INFO  Validating config.js and environment variables 
+02:53:34.297 WARN  env: WEATHERSTACK_KEY is missing. Weather command won't work 
+02:53:34.299 INFO  Connecting to MongoDb... 
+02:53:34.705 INFO  Mongoose: Database connection established 
+02:53:35.245 INFO  Logged in as Maxxie#2733! (906013982844923965) 
+02:53:35.247 INFO  Initializing music manager 
+02:53:35.255 INFO  Testing Mode: Skipping Global Commands 
+02:53:35.387 INFO  Guilds with invite tracking: 0 
+02:53:35.389 INFO  Guilds with counter channels: 0 
+02:53:35.393 INFO  Ready to serve 1 guilds! 
+02:53:35.425 INFO  Node "DBL Lavalink" connected 
+02:53:35.525 INFO  Node "Something Host" connected 
+02:53:36.165 DEBUG Syncing slash command permissions in 905975867778420747 
+02:54:30.057 INFO  Loading events... 
+02:54:30.200 INFO  Loaded 21 events. Success (21) Failed (0) 
+02:54:30.202 INFO  Loading slash commands... 
+02:54:30.382 INFO  Loaded 72 slash commands 
+02:54:30.385 INFO  Loading contexts... 
+02:54:30.393 INFO  Loaded 2 USER contexts 
+02:54:30.394 INFO  Loaded 0 MESSAGE contexts 
+02:54:30.770 INFO  VersionCheck: Your discord bot is up to date 
+02:54:30.773 INFO  Validating config.js and environment variables 
+02:54:30.775 WARN  env: WEATHERSTACK_KEY is missing. Weather command won't work 
+02:54:30.777 INFO  Launching dashboard 
+02:54:35.303 INFO  Connecting to MongoDb... 
+02:54:35.312 INFO  Dashboard is listening on port 8080 
+02:54:38.884 INFO  Loading events... 
+02:54:39.041 INFO  Loaded 21 events. Success (21) Failed (0) 
+02:54:39.042 INFO  Loading slash commands... 
+02:54:39.231 INFO  Loaded 72 slash commands 
+02:54:39.232 INFO  Loading contexts... 
+02:54:39.237 INFO  Loaded 2 USER contexts 
+02:54:39.238 INFO  Loaded 0 MESSAGE contexts 
+02:54:39.569 INFO  VersionCheck: Your discord bot is up to date 
+02:54:39.570 INFO  Validating config.js and environment variables 
+02:54:39.570 WARN  env: WEATHERSTACK_KEY is missing. Weather command won't work 
+02:54:39.571 INFO  Launching dashboard 
+02:54:39.889 INFO  Connecting to MongoDb... 
+02:54:39.897 INFO  Dashboard is listening on port 8080 
+02:54:40.305 INFO  Mongoose: Database connection established 
+02:54:40.760 INFO  Logged in as Maxxie#2733! (906013982844923965) 
+02:54:40.763 INFO  Initializing music manager 
+02:54:40.775 INFO  Testing Mode: Skipping Global Commands 
+02:54:40.909 INFO  Guilds with invite tracking: 0 
+02:54:40.909 INFO  Guilds with counter channels: 0 
+02:54:40.910 INFO  Ready to serve 1 guilds! 
+02:54:41.047 INFO  Node "Something Host" connected 
+02:54:41.117 INFO  Node "DBL Lavalink" connected 
+02:54:41.155 DEBUG Syncing slash command permissions in 905975867778420747 
+02:55:46.219 INFO  Loading events... 
+02:55:46.437 INFO  Loaded 21 events. Success (21) Failed (0) 
+02:55:46.438 INFO  Loading slash commands... 
+02:55:46.611 INFO  Loaded 72 slash commands 
+02:55:46.615 INFO  Loading contexts... 
+02:55:46.621 INFO  Loaded 2 USER contexts 
+02:55:46.622 INFO  Loaded 0 MESSAGE contexts 
+02:55:47.170 INFO  VersionCheck: Your discord bot is up to date 
+02:55:47.172 INFO  Validating config.js and environment variables 
+02:55:47.175 WARN  env: WEATHERSTACK_KEY is missing. Weather command won't work 
+02:55:47.176 INFO  Launching dashboard 
+02:55:47.529 INFO  Connecting to MongoDb... 
+02:55:47.538 INFO  Dashboard is listening on port 8080 
+02:55:47.986 INFO  Mongoose: Database connection established 
+02:55:48.480 INFO  Logged in as Maxxie#2733! (906013982844923965) 
+02:55:48.482 INFO  Initializing music manager 
+02:55:48.491 INFO  Testing Mode: Skipping Global Commands 
+02:55:48.709 INFO  Guilds with invite tracking: 0 
+02:55:48.711 INFO  Guilds with counter channels: 0 
+02:55:48.714 INFO  Ready to serve 1 guilds! 
+02:55:48.763 INFO  Node "Something Host" connected 
+02:55:48.846 INFO  Node "DBL Lavalink" connected 
+02:55:48.930 DEBUG Syncing slash command permissions in 905975867778420747 
+02:56:54.493 INFO  Loading events... 
+02:56:54.707 INFO  Loaded 21 events. Success (21) Failed (0) 
+02:56:54.715 INFO  Loading slash commands... 
+02:56:54.912 INFO  Loaded 72 slash commands 
+02:56:54.916 INFO  Loading contexts... 
+02:56:54.925 INFO  Loaded 2 USER contexts 
+02:56:54.928 INFO  Loaded 0 MESSAGE contexts 
+02:56:55.555 INFO  VersionCheck: Your discord bot is up to date 
+02:56:55.557 INFO  Validating config.js and environment variables 
+02:56:55.560 WARN  env: WEATHERSTACK_KEY is missing. Weather command won't work 
+02:56:55.561 INFO  Launching dashboard 
+02:56:55.907 INFO  Connecting to MongoDb... 
+02:56:55.916 INFO  Dashboard is listening on port 8080 
+02:56:56.361 INFO  Mongoose: Database connection established 
+02:56:56.934 INFO  Logged in as Maxxie#2733! (906013982844923965) 
+02:56:56.936 INFO  Initializing music manager 
+02:56:57.110 INFO  Successfully registered global interactions 
+02:56:57.116 ERROR Permissions for global commands may only be fetched or modified by providing a GuildResolvable or from a guild's application command manager.
+{}
+Error [GLOBAL_COMMAND_PERMISSIONS]: Permissions for global commands may only be fetched or modified by providing a GuildResolvable or from a guild's application command manager.
+    at ApplicationCommandPermissionsManager._validateOptions (C:\Users\elfbr\Downloads\discord-js-bot-4.0.0-prerelease\discord-js-bot-4.0.0-prerelease\node_modules\discord.js\src\managers\ApplicationCommandPermissionsManager.js:377:25)
+    at ApplicationCommandPermissionsManager.set (C:\Users\elfbr\Downloads\discord-js-bot-4.0.0-prerelease\discord-js-bot-4.0.0-prerelease\node_modules\discord.js\src\managers\ApplicationCommandPermissionsManager.js:162:41)
+    at BotClient.registerGlobalInteractions (C:\Users\elfbr\Downloads\discord-js-bot-4.0.0-prerelease\discord-js-bot-4.0.0-prerelease\src\structures\BotClient.js:269:51)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async module.exports (C:\Users\elfbr\Downloads\discord-js-bot-4.0.0-prerelease\discord-js-bot-4.0.0-prerelease\src\events\ready.js:22:3) 
+02:56:57.198 INFO  Node "Something Host" connected 
+02:56:57.270 INFO  Node "DBL Lavalink" connected 
+02:57:19.658 INFO  Loading events... 
+02:57:19.800 INFO  Loaded 21 events. Success (21) Failed (0) 
+02:57:19.801 INFO  Loading slash commands... 
+02:57:19.995 INFO  Loaded 72 slash commands 
+02:57:20.001 INFO  Loading contexts... 
+02:57:20.009 INFO  Loaded 2 USER contexts 
+02:57:20.010 INFO  Loaded 0 MESSAGE contexts 
+02:57:20.546 INFO  VersionCheck: Your discord bot is up to date 
+02:57:20.549 INFO  Validating config.js and environment variables 
+02:57:20.552 WARN  env: WEATHERSTACK_KEY is missing. Weather command won't work 
+02:57:20.553 INFO  Launching dashboard 
+02:57:20.870 INFO  Connecting to MongoDb... 
+02:57:20.880 INFO  Dashboard is listening on port 8080 
+02:57:21.316 INFO  Mongoose: Database connection established 
+02:57:21.747 INFO  Logged in as Maxxie#2733! (906013982844923965) 
+02:57:21.749 INFO  Initializing music manager 
+02:57:21.755 INFO  Testing Mode: Skipping Global Commands 
+02:57:21.887 INFO  Guilds with invite tracking: 0 
+02:57:21.889 INFO  Guilds with counter channels: 0 
+02:57:21.892 INFO  Ready to serve 1 guilds! 
+02:57:21.918 INFO  Node "DBL Lavalink" connected 
+02:57:22.002 INFO  Node "Something Host" connected 
+02:57:22.213 DEBUG Syncing slash command permissions in 905975867778420747 
+02:59:18.903 INFO  Loading events... 
+02:59:19.036 INFO  Loaded 21 events. Success (21) Failed (0) 
+02:59:19.037 INFO  Loading slash commands... 
+02:59:19.238 INFO  Loaded 72 slash commands 
+02:59:19.240 INFO  Loading contexts... 
+02:59:19.246 INFO  Loaded 2 USER contexts 
+02:59:19.247 INFO  Loaded 0 MESSAGE contexts 
+02:59:19.667 INFO  VersionCheck: Your discord bot is up to date 
+02:59:19.672 INFO  Validating config.js and environment variables 
+02:59:19.673 WARN  env: WEATHERSTACK_KEY is missing. Weather command won't work 
+02:59:19.674 WARN  config.js: OWNER_IDS are empty 
+02:59:19.675 INFO  Launching dashboard 
+02:59:20.050 INFO  Connecting to MongoDb... 
+02:59:20.061 INFO  Dashboard is listening on port 8080 
+02:59:20.527 INFO  Mongoose: Database connection established 
+02:59:21.199 INFO  Logged in as Maxxie#2733! (906013982844923965) 
+02:59:21.203 INFO  Initializing music manager 
+02:59:21.210 INFO  Testing Mode: Skipping Global Commands 
+02:59:21.339 INFO  Guilds with invite tracking: 0 
+02:59:21.341 INFO  Guilds with counter channels: 0 
+02:59:21.344 INFO  Ready to serve 1 guilds! 
+02:59:21.460 INFO  Node "DBL Lavalink" connected 
+02:59:21.510 INFO  Node "Something Host" connected 
+02:59:21.574 DEBUG Syncing slash command permissions in 905975867778420747 
+03:04:24.668 INFO  Loading events... 
+03:04:24.918 INFO  Loaded 21 events. Success (21) Failed (0) 
+03:04:24.919 INFO  Loading slash commands... 
+03:04:25.104 INFO  Loaded 72 slash commands 
+03:04:25.106 INFO  Loading contexts... 
+03:04:25.113 INFO  Loaded 2 USER contexts 
+03:04:25.115 INFO  Loaded 0 MESSAGE contexts 
+03:04:25.726 INFO  VersionCheck: Your discord bot is up to date 
+03:04:25.729 INFO  Validating config.js and environment variables 
+03:04:25.732 WARN  env: WEATHERSTACK_KEY is missing. Weather command won't work 
+03:04:25.733 WARN  config.js: OWNER_IDS are empty 
+03:04:25.734 INFO  Launching dashboard 
+03:04:26.318 INFO  Connecting to MongoDb... 
+03:04:26.365 INFO  Dashboard is listening on port 8080 
+03:04:29.420 INFO  Loading events... 
+03:04:29.541 INFO  Loaded 21 events. Success (21) Failed (0) 
+03:04:29.542 INFO  Loading slash commands... 
+03:04:29.710 INFO  Loaded 72 slash commands 
+03:04:29.712 INFO  Loading contexts... 
+03:04:29.718 INFO  Loaded 2 USER contexts 
+03:04:29.720 INFO  Loaded 0 MESSAGE contexts 
+03:04:30.267 INFO  VersionCheck: Your discord bot is up to date 
+03:04:30.269 INFO  Validating config.js and environment variables 
+03:04:30.272 WARN  env: WEATHERSTACK_KEY is missing. Weather command won't work 
+03:04:30.274 WARN  config.js: OWNER_IDS are empty 
+03:04:30.276 INFO  Launching dashboard 
+03:04:30.621 INFO  Connecting to MongoDb... 
+03:04:30.629 INFO  Dashboard is listening on port 8080 
+03:04:31.059 INFO  Mongoose: Database connection established 
+03:04:31.494 INFO  Logged in as Maxxie#2733! (906013982844923965) 
+03:04:31.496 INFO  Initializing music manager 
+03:04:31.505 INFO  Testing Mode: Skipping Global Commands 
+03:04:31.638 INFO  Guilds with invite tracking: 0 
+03:04:31.640 INFO  Guilds with counter channels: 0 
+03:04:31.643 INFO  Ready to serve 1 guilds! 
+03:04:31.814 INFO  Node "Something Host" connected 
+03:04:31.823 INFO  Node "DBL Lavalink" connected 
+03:04:31.936 DEBUG Syncing slash command permissions in 905975867778420747 
+03:07:01.966 INFO  Loading events... 
+03:07:02.090 INFO  Loaded 21 events. Success (21) Failed (0) 
+03:07:02.092 INFO  Loading slash commands... 
+03:07:02.122 DEBUG Skipping command automod. Disabled! 
+03:07:02.301 INFO  Loaded 71 slash commands 
+03:07:02.303 INFO  Loading contexts... 
+03:07:02.310 INFO  Loaded 2 USER contexts 
+03:07:02.311 INFO  Loaded 0 MESSAGE contexts 
+03:07:03.589 INFO  VersionCheck: Your discord bot is up to date 
+03:07:03.591 INFO  Validating config.js and environment variables 
+03:07:03.594 WARN  env: WEATHERSTACK_KEY is missing. Weather command won't work 
+03:07:03.595 WARN  config.js: OWNER_IDS are empty 
+03:07:03.596 INFO  Launching dashboard 
+03:07:03.945 INFO  Connecting to MongoDb... 
+03:07:03.955 INFO  Dashboard is listening on port 8080 
+03:07:04.611 INFO  Mongoose: Database connection established 
+03:07:05.028 INFO  Logged in as Maxxie#2733! (906013982844923965) 
+03:07:05.031 INFO  Initializing music manager 
+03:07:05.037 INFO  Testing Mode: Skipping Global Commands 
+03:07:05.209 INFO  Guilds with invite tracking: 0 
+03:07:05.212 INFO  Guilds with counter channels: 0 
+03:07:05.215 INFO  Ready to serve 1 guilds! 
+03:07:05.321 INFO  Node "Something Host" connected 
+03:07:05.437 INFO  Node "DBL Lavalink" connected 
+03:07:05.470 DEBUG Syncing slash command permissions in 905975867778420747 
+03:07:27.481 INFO  Loading events... 
+03:07:27.596 INFO  Loaded 21 events. Success (21) Failed (0) 
+03:07:27.598 INFO  Loading slash commands... 
+03:07:27.795 INFO  Loaded 72 slash commands 
+03:07:27.798 INFO  Loading contexts... 
+03:07:27.807 INFO  Loaded 2 USER contexts 
+03:07:27.809 INFO  Loaded 0 MESSAGE contexts 
+03:07:28.280 INFO  VersionCheck: Your discord bot is up to date 
+03:07:28.283 INFO  Validating config.js and environment variables 
+03:07:28.286 WARN  env: WEATHERSTACK_KEY is missing. Weather command won't work 
+03:07:28.287 WARN  config.js: OWNER_IDS are empty 
+03:07:28.289 INFO  Launching dashboard 
+03:07:28.655 INFO  Connecting to MongoDb... 
+03:07:28.666 INFO  Dashboard is listening on port 8080 
+03:07:29.089 INFO  Mongoose: Database connection established 
+03:07:29.484 INFO  Logged in as Maxxie#2733! (906013982844923965) 
+03:07:29.486 INFO  Initializing music manager 
+03:07:29.494 INFO  Testing Mode: Skipping Global Commands 
+03:07:29.649 INFO  Guilds with invite tracking: 0 
+03:07:29.651 INFO  Guilds with counter channels: 0 
+03:07:29.654 INFO  Ready to serve 1 guilds! 
+03:07:29.681 INFO  Node "DBL Lavalink" connected 
+03:07:29.749 INFO  Node "Something Host" connected 
+03:07:29.987 DEBUG Syncing slash command permissions in 905975867778420747 
+03:07:45.207 INFO  Loading events... 
+03:07:45.352 INFO  Loaded 21 events. Success (21) Failed (0) 
+03:07:45.353 INFO  Loading slash commands... 
+03:07:45.542 INFO  Loaded 72 slash commands 
+03:07:45.544 INFO  Loading contexts... 
+03:07:45.553 INFO  Loaded 2 USER contexts 
+03:07:45.555 INFO  Loaded 0 MESSAGE contexts 
+03:07:46.153 INFO  VersionCheck: Your discord bot is up to date 
+03:07:46.155 INFO  Validating config.js and environment variables 
+03:07:46.158 WARN  env: WEATHERSTACK_KEY is missing. Weather command won't work 
+03:07:46.159 WARN  config.js: OWNER_IDS are empty 
+03:07:46.160 INFO  Launching dashboard 
+03:07:46.541 INFO  Connecting to MongoDb... 
+03:07:46.552 INFO  Dashboard is listening on port 8080 
+03:07:46.954 INFO  Mongoose: Database connection established 
+03:07:47.373 INFO  Logged in as Maxxie#2733! (906013982844923965) 
+03:07:47.375 INFO  Initializing music manager 
+03:07:47.382 INFO  Testing Mode: Skipping Global Commands 
+03:07:47.515 INFO  Guilds with invite tracking: 0 
+03:07:47.517 INFO  Guilds with counter channels: 0 
+03:07:47.519 INFO  Ready to serve 1 guilds! 
+03:07:47.576 INFO  Node "DBL Lavalink" connected 
+03:07:47.654 INFO  Node "Something Host" connected 
+03:07:58.769 INFO  Loading events... 
+03:07:58.898 INFO  Loaded 21 events. Success (21) Failed (0) 
+03:07:58.899 INFO  Loading slash commands... 
+03:07:59.082 INFO  Loaded 72 slash commands 
+03:07:59.084 INFO  Loading contexts... 
+03:07:59.091 INFO  Loaded 2 USER contexts 
+03:07:59.092 INFO  Loaded 0 MESSAGE contexts 
+03:07:59.509 INFO  VersionCheck: Your discord bot is up to date 
+03:07:59.512 INFO  Validating config.js and environment variables 
+03:07:59.514 WARN  env: WEATHERSTACK_KEY is missing. Weather command won't work 
+03:07:59.515 WARN  config.js: OWNER_IDS are empty 
+03:07:59.517 INFO  Launching dashboard 
+03:07:59.854 INFO  Connecting to MongoDb... 
+03:07:59.864 INFO  Dashboard is listening on port 8080 
+03:08:00.619 INFO  Mongoose: Database connection established 
+03:08:01.251 INFO  Logged in as Maxxie#2733! (906013982844923965) 
+03:08:01.253 INFO  Initializing music manager 
+03:08:01.259 INFO  Testing Mode: Skipping Global Commands 
+03:08:01.465 INFO  Node "DBL Lavalink" connected 
+03:08:01.487 INFO  Guilds with invite tracking: 0 
+03:08:01.488 INFO  Guilds with counter channels: 0 
+03:08:01.489 INFO  Ready to serve 1 guilds! 
+03:08:01.614 INFO  Node "Something Host" connected 
+03:08:06.009 DEBUG Syncing slash command permissions in 905975867778420747 
+03:09:12.135 INFO  Loading events... 
+03:09:12.292 INFO  Loaded 21 events. Success (21) Failed (0) 
+03:09:12.293 INFO  Loading slash commands... 
+03:09:12.458 INFO  Loaded 72 slash commands 
+03:09:12.461 INFO  Loading contexts... 
+03:09:12.467 INFO  Loaded 2 USER contexts 
+03:09:12.468 INFO  Loaded 0 MESSAGE contexts 
+03:09:13.037 INFO  VersionCheck: Your discord bot is up to date 
+03:09:13.039 INFO  Validating config.js and environment variables 
+03:09:13.070 WARN  env: WEATHERSTACK_KEY is missing. Weather command won't work 
+03:09:13.072 WARN  config.js: OWNER_IDS are empty 
+03:09:13.075 INFO  Launching dashboard 
+03:09:13.674 INFO  Connecting to MongoDb... 
+03:09:13.692 INFO  Dashboard is listening on port 8080 
+03:09:14.144 INFO  Mongoose: Database connection established 
+03:09:14.571 INFO  Logged in as Maxxie#2733! (906013982844923965) 
+03:09:14.572 INFO  Initializing music manager 
+03:09:14.583 INFO  Testing Mode: Skipping Global Commands 
+03:09:14.710 INFO  Guilds with invite tracking: 0 
+03:09:14.712 INFO  Guilds with counter channels: 0 
+03:09:14.715 INFO  Ready to serve 1 guilds! 
+03:09:14.832 INFO  Node "Something Host" connected 
+03:09:14.921 INFO  Node "DBL Lavalink" connected 
+03:09:14.999 DEBUG Syncing slash command permissions in 905975867778420747 
+03:09:31.577 INFO  Loading events... 
+03:09:31.727 INFO  Loaded 21 events. Success (21) Failed (0) 
+03:09:31.730 INFO  Loading slash commands... 
+03:09:31.895 INFO  Loaded 72 slash commands 
+03:09:31.897 INFO  Loading contexts... 
+03:09:31.904 INFO  Loaded 2 USER contexts 
+03:09:31.905 INFO  Loaded 0 MESSAGE contexts 
+03:09:32.235 INFO  VersionCheck: Your discord bot is up to date 
+03:09:32.242 INFO  Validating config.js and environment variables 
+03:09:32.243 WARN  env: WEATHERSTACK_KEY is missing. Weather command won't work 
+03:09:32.244 WARN  config.js: OWNER_IDS are empty 
+03:09:32.244 INFO  Launching dashboard 
+03:09:32.592 INFO  Connecting to MongoDb... 
+03:09:32.601 INFO  Dashboard is listening on port 8080 
+03:09:32.973 INFO  Mongoose: Database connection established 
+03:09:33.593 INFO  Logged in as Maxxie#2733! (906013982844923965) 
+03:09:33.593 INFO  Initializing music manager 
+03:09:33.600 INFO  Testing Mode: Skipping Global Commands 
+03:09:33.727 INFO  Guilds with invite tracking: 0 
+03:09:33.729 INFO  Guilds with counter channels: 0 
+03:09:33.732 INFO  Ready to serve 1 guilds! 
+03:09:33.760 INFO  Node "DBL Lavalink" connected 
+03:09:33.915 INFO  Node "Something Host" connected 
+03:09:34.626 DEBUG Syncing slash command permissions in 905975867778420747 
+03:10:21.740 INFO  Loading events... 
+03:10:21.880 INFO  Loaded 21 events. Success (21) Failed (0) 
+03:10:21.881 INFO  Loading slash commands... 
+03:10:22.040 INFO  Loaded 72 slash commands 
+03:10:22.042 INFO  Loading contexts... 
+03:10:22.049 INFO  Loaded 2 USER contexts 
+03:10:22.050 INFO  Loaded 0 MESSAGE contexts 
+03:10:22.482 INFO  VersionCheck: Your discord bot is up to date 
+03:10:22.487 INFO  Validating config.js and environment variables 
+03:10:22.495 WARN  env: WEATHERSTACK_KEY is missing. Weather command won't work 
+03:10:22.497 WARN  config.js: OWNER_IDS are empty 
+03:10:22.498 INFO  Launching dashboard 
+03:10:22.832 INFO  Connecting to MongoDb... 
+03:10:22.841 INFO  Dashboard is listening on port 8080 
+03:10:23.291 INFO  Mongoose: Database connection established 
+03:10:23.716 INFO  Logged in as Maxxie's Manager#0343! (906014415634174002) 
+03:10:23.719 INFO  Initializing music manager 
+03:10:23.727 INFO  Testing Mode: Skipping Global Commands 
+03:10:23.891 INFO  Guilds with invite tracking: 0 
+03:10:23.896 INFO  Guilds with counter channels: 0 
+03:10:23.896 INFO  Ready to serve 1 guilds! 
+03:10:24.032 INFO  Node "Something Host" connected 
+03:10:24.061 INFO  Node "DBL Lavalink" connected 
+03:10:24.345 DEBUG Syncing slash command permissions in 905975867778420747 
+03:11:06.392 INFO  Loading events... 
+03:11:06.521 INFO  Loaded 21 events. Success (21) Failed (0) 
+03:11:06.522 INFO  Loading slash commands... 
+03:11:06.736 INFO  Loaded 72 slash commands 
+03:11:06.738 INFO  Loading contexts... 
+03:11:06.745 INFO  Loaded 2 USER contexts 
+03:11:06.746 INFO  Loaded 0 MESSAGE contexts 
+03:11:07.131 INFO  VersionCheck: Your discord bot is up to date 
+03:11:07.133 INFO  Validating config.js and environment variables 
+03:11:07.137 WARN  env: WEATHERSTACK_KEY is missing. Weather command won't work 
+03:11:07.138 WARN  config.js: OWNER_IDS are empty 
+03:11:07.139 INFO  Launching dashboard 
+03:11:07.514 INFO  Connecting to MongoDb... 
+03:11:07.523 INFO  Dashboard is listening on port 8080 
+03:11:07.964 INFO  Mongoose: Database connection established 
+03:11:08.447 INFO  Logged in as Maxxie#2733! (906013982844923965) 
+03:11:08.453 INFO  Initializing music manager 
+03:11:08.459 INFO  Testing Mode: Skipping Global Commands 
+03:11:08.591 INFO  Guilds with invite tracking: 0 
+03:11:08.596 INFO  Guilds with counter channels: 0 
+03:11:08.597 INFO  Ready to serve 1 guilds! 
+03:11:08.631 INFO  Node "DBL Lavalink" connected 
+03:11:08.744 INFO  Node "Something Host" connected 
+03:11:08.988 DEBUG Syncing slash command permissions in 905975867778420747 
+03:12:29.756 INFO  Loading events... 
+03:12:29.885 INFO  Loaded 21 events. Success (21) Failed (0) 
+03:12:29.887 INFO  Loading slash commands... 
+03:12:30.046 INFO  Loaded 72 slash commands 
+03:12:30.048 INFO  Loading contexts... 
+03:12:30.054 INFO  Loaded 2 USER contexts 
+03:12:30.056 INFO  Loaded 0 MESSAGE contexts 
+03:12:30.426 INFO  VersionCheck: Your discord bot is up to date 
+03:12:30.428 INFO  Validating config.js and environment variables 
+03:12:30.431 WARN  env: WEATHERSTACK_KEY is missing. Weather command won't work 
+03:12:30.432 INFO  Launching dashboard 
+03:12:30.777 INFO  Connecting to MongoDb... 
+03:12:30.787 INFO  Dashboard is listening on port 8080 
+03:12:31.252 INFO  Mongoose: Database connection established 
+03:12:31.743 INFO  Logged in as Maxxie#2733! (906013982844923965) 
+03:12:31.745 INFO  Initializing music manager 
+03:12:31.893 INFO  Successfully registered global interactions 
+03:12:31.899 ERROR Permissions for global commands may only be fetched or modified by providing a GuildResolvable or from a guild's application command manager.
+{}
+Error [GLOBAL_COMMAND_PERMISSIONS]: Permissions for global commands may only be fetched or modified by providing a GuildResolvable or from a guild's application command manager.
+    at ApplicationCommandPermissionsManager._validateOptions (C:\Users\elfbr\Downloads\discord-js-bot-4.0.0-prerelease\discord-js-bot-4.0.0-prerelease\node_modules\discord.js\src\managers\ApplicationCommandPermissionsManager.js:377:25)
+    at ApplicationCommandPermissionsManager.set (C:\Users\elfbr\Downloads\discord-js-bot-4.0.0-prerelease\discord-js-bot-4.0.0-prerelease\node_modules\discord.js\src\managers\ApplicationCommandPermissionsManager.js:162:41)
+    at BotClient.registerGlobalInteractions (C:\Users\elfbr\Downloads\discord-js-bot-4.0.0-prerelease\discord-js-bot-4.0.0-prerelease\src\structures\BotClient.js:269:51)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async module.exports (C:\Users\elfbr\Downloads\discord-js-bot-4.0.0-prerelease\discord-js-bot-4.0.0-prerelease\src\events\ready.js:22:3) 
+03:12:31.992 INFO  Node "Something Host" connected 
+03:12:32.080 INFO  Node "DBL Lavalink" connected 
+03:13:08.598 INFO  Loading events... 
+03:13:08.726 INFO  Loaded 21 events. Success (21) Failed (0) 
+03:13:08.728 INFO  Loading slash commands... 
+03:13:09.041 INFO  Loaded 72 slash commands 
+03:13:09.047 INFO  Loading contexts... 
+03:13:09.054 INFO  Loaded 2 USER contexts 
+03:13:09.055 INFO  Loaded 0 MESSAGE contexts 
+03:13:09.503 INFO  VersionCheck: Your discord bot is up to date 
+03:13:09.506 INFO  Validating config.js and environment variables 
+03:13:09.510 WARN  env: WEATHERSTACK_KEY is missing. Weather command won't work 
+03:13:09.510 WARN  config.js: OWNER_IDS are empty 
+03:13:09.511 INFO  Launching dashboard 
+03:13:09.918 INFO  Connecting to MongoDb... 
+03:13:09.927 INFO  Dashboard is listening on port 8080 
+03:13:10.335 INFO  Mongoose: Database connection established 
+03:13:10.766 INFO  Logged in as Maxxie#2733! (906013982844923965) 
+03:13:10.769 INFO  Initializing music manager 
+03:13:10.775 INFO  Testing Mode: Skipping Global Commands 
+03:13:10.908 INFO  Guilds with invite tracking: 0 
+03:13:10.910 INFO  Guilds with counter channels: 0 
+03:13:10.913 INFO  Ready to serve 1 guilds! 
+03:13:10.936 INFO  Node "DBL Lavalink" connected 
+03:13:11.054 INFO  Node "Something Host" connected 
+03:13:11.204 DEBUG Syncing slash command permissions in 905975867778420747 
+13:59:34.308 INFO  Loading events... 
+13:59:35.017 INFO  Loaded 21 events. Success (21) Failed (0) 
+13:59:35.021 INFO  Loading slash commands... 
+13:59:35.874 INFO  Loaded 72 slash commands 
+13:59:35.876 INFO  Loading contexts... 
+13:59:35.884 INFO  Loaded 2 USER contexts 
+13:59:35.886 INFO  Loaded 0 MESSAGE contexts 
+13:59:36.602 INFO  VersionCheck: Your discord bot is up to date 
+13:59:36.607 INFO  Validating config.js and environment variables 
+13:59:36.608 WARN  env: WEATHERSTACK_KEY is missing. Weather command won't work 
+13:59:36.609 WARN  config.js: OWNER_IDS are empty 
+13:59:36.610 INFO  Launching dashboard 
+13:59:38.785 INFO  Connecting to MongoDb... 
+13:59:38.827 INFO  Dashboard is listening on port 8080 
+13:59:39.318 INFO  Mongoose: Database connection established 
+13:59:39.860 INFO  Logged in as Maxxie#2733! (906013982844923965) 
+13:59:39.862 INFO  Initializing music manager 
+13:59:39.873 INFO  Testing Mode: Skipping Global Commands 
+13:59:40.016 INFO  Guilds with invite tracking: 0 
+13:59:40.018 INFO  Guilds with counter channels: 0 
+13:59:40.022 INFO  Ready to serve 1 guilds! 
+13:59:40.211 INFO  Node "Something Host" connected 
+13:59:40.231 INFO  Node "DBL Lavalink" connected 
+13:59:40.476 DEBUG Syncing slash command permissions in 905975867778420747 
+14:00:29.940 DEBUG Syncing slash command permissions in 905975867778420747 
+14:01:31.970 ERROR Cannot read property 'managed' of null
+{}
+TypeError: Cannot read property 'managed' of null
+    at TicketCommand.run (C:\Users\elfbr\Downloads\discord-js-bot-4.0.0-prerelease\discord-js-bot-4.0.0-prerelease\src\interactions\commands\admin\ticket\ticket.js:136:16)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async TicketCommand.execute (C:\Users\elfbr\Downloads\discord-js-bot-4.0.0-prerelease\discord-js-bot-4.0.0-prerelease\src\structures\SlashCommand.js:109:7)
+    at async module.exports (C:\Users\elfbr\Downloads\discord-js-bot-4.0.0-prerelease\discord-js-bot-4.0.0-prerelease\src\events\interactions\interactionCreate.js:20:18) 
+14:02:05.526 ERROR Cannot read property 'managed' of null
+{}
+TypeError: Cannot read property 'managed' of null
+    at TicketCommand.run (C:\Users\elfbr\Downloads\discord-js-bot-4.0.0-prerelease\discord-js-bot-4.0.0-prerelease\src\interactions\commands\admin\ticket\ticket.js:136:16)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async TicketCommand.execute (C:\Users\elfbr\Downloads\discord-js-bot-4.0.0-prerelease\discord-js-bot-4.0.0-prerelease\src\structures\SlashCommand.js:109:7)
+    at async module.exports (C:\Users\elfbr\Downloads\discord-js-bot-4.0.0-prerelease\discord-js-bot-4.0.0-prerelease\src\events\interactions\interactionCreate.js:20:18) 
+14:05:57.255 INFO  Loading events... 
+14:05:57.407 INFO  Loaded 21 events. Success (21) Failed (0) 
+14:05:57.408 INFO  Loading slash commands... 
+14:05:57.587 INFO  Loaded 72 slash commands 
+14:05:57.589 INFO  Loading contexts... 
+14:05:57.598 INFO  Loaded 2 USER contexts 
+14:05:57.599 INFO  Loaded 0 MESSAGE contexts 
+14:05:58.088 INFO  VersionCheck: Your discord bot is up to date 
+14:05:58.090 INFO  Validating config.js and environment variables 
+14:05:58.092 WARN  env: WEATHERSTACK_KEY is missing. Weather command won't work 
+14:05:58.094 WARN  config.js: OWNER_IDS are empty 
+14:05:58.095 INFO  Launching dashboard 
+14:05:58.457 INFO  Connecting to MongoDb... 
+14:05:58.466 INFO  Dashboard is listening on port 8080 
+14:05:58.914 INFO  Mongoose: Database connection established 
+14:05:59.412 INFO  Logged in as Maxxie#2733! (906013982844923965) 
+14:05:59.414 INFO  Initializing music manager 
+14:05:59.423 INFO  Testing Mode: Skipping Global Commands 
+14:05:59.556 INFO  Guilds with invite tracking: 0 
+14:05:59.558 INFO  Guilds with counter channels: 0 
+14:05:59.561 INFO  Ready to serve 1 guilds! 
+14:05:59.727 INFO  Node "Something Host" connected 
+14:05:59.870 DEBUG Syncing slash command permissions in 905975867778420747 
+14:06:04.229 ERROR Client network socket disconnected before secure TLS connection was established
+{"code":"ECONNRESET","host":"disbotlistlavalink.ml","port":443}
+Error: Client network socket disconnected before secure TLS connection was established
+    at connResetException (node:internal/errors:691:14)
+    at TLSSocket.onConnectEnd (node:_tls_wrap:1585:19)
+    at TLSSocket.emit (node:events:406:35)
+    at endReadableNT (node:internal/streams/readable:1348:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21) 
+14:06:07.251 WARN  Node "DBL Lavalink" is reconnecting 
+14:06:07.443 INFO  Node "DBL Lavalink" connected 
+14:06:46.662 DEBUG Syncing slash command permissions in 905975867778420747 
+14:07:55.183 INFO  Loading events... 
+14:07:55.298 INFO  Loaded 21 events. Success (21) Failed (0) 
+14:07:55.299 INFO  Loading slash commands... 
+14:07:55.463 INFO  Loaded 72 slash commands 
+14:07:55.465 INFO  Loading contexts... 
+14:07:55.472 INFO  Loaded 2 USER contexts 
+14:07:55.473 INFO  Loaded 0 MESSAGE contexts 
+14:07:55.921 INFO  VersionCheck: Your discord bot is up to date 
+14:07:55.928 INFO  Validating config.js and environment variables 
+14:07:55.936 WARN  env: WEATHERSTACK_KEY is missing. Weather command won't work 
+14:07:55.939 WARN  config.js: OWNER_IDS are empty 
+14:07:55.941 INFO  Connecting to MongoDb... 
+14:07:56.409 INFO  Mongoose: Database connection established 
+14:07:56.933 INFO  Logged in as Maxxie#2733! (906013982844923965) 
+14:07:56.936 INFO  Initializing music manager 
+14:07:56.949 INFO  Testing Mode: Skipping Global Commands 
+14:07:57.095 INFO  Guilds with invite tracking: 0 
+14:07:57.101 INFO  Guilds with counter channels: 0 
+14:07:57.104 INFO  Ready to serve 1 guilds! 
+14:07:57.244 INFO  Node "Something Host" connected 
+14:07:57.460 DEBUG Syncing slash command permissions in 905975867778420747 
+14:07:57.603 INFO  Node "DBL Lavalink" connected 
+14:10:33.492 ERROR Cannot read property 'managed' of null
+{}
+TypeError: Cannot read property 'managed' of null
+    at TicketCommand.run (C:\Users\elfbr\Downloads\discord-js-bot-4.0.0-prerelease\discord-js-bot-4.0.0-prerelease\src\interactions\commands\admin\ticket\ticket.js:136:16)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async TicketCommand.execute (C:\Users\elfbr\Downloads\discord-js-bot-4.0.0-prerelease\discord-js-bot-4.0.0-prerelease\src\structures\SlashCommand.js:109:7)
+    at async module.exports (C:\Users\elfbr\Downloads\discord-js-bot-4.0.0-prerelease\discord-js-bot-4.0.0-prerelease\src\events\interactions\interactionCreate.js:20:18) 
+14:11:15.755 INFO  Loading events... 
+14:11:15.915 INFO  Loaded 21 events. Success (21) Failed (0) 
+14:11:15.916 INFO  Loading slash commands... 
+14:11:16.108 INFO  Loaded 72 slash commands 
+14:11:16.110 INFO  Loading contexts... 
+14:11:16.116 INFO  Loaded 2 USER contexts 
+14:11:16.118 INFO  Loaded 0 MESSAGE contexts 
+14:11:17.876 INFO  VersionCheck: Your discord bot is up to date 
+14:11:17.878 INFO  Validating config.js and environment variables 
+14:11:17.881 WARN  env: WEATHERSTACK_KEY is missing. Weather command won't work 
+14:11:17.881 WARN  config.js: OWNER_IDS are empty 
+14:11:17.882 INFO  Launching dashboard 
+14:11:18.237 INFO  Connecting to MongoDb... 
+14:11:18.249 INFO  Dashboard is listening on port 8080 
+14:11:18.673 INFO  Mongoose: Database connection established 
+14:11:19.133 INFO  Logged in as Maxxie#2733! (906013982844923965) 
+14:11:19.135 INFO  Initializing music manager 
+14:11:19.143 INFO  Testing Mode: Skipping Global Commands 
+14:11:19.295 INFO  Guilds with invite tracking: 0 
+14:11:19.297 INFO  Guilds with counter channels: 0 
+14:11:19.298 INFO  Ready to serve 1 guilds! 
+14:11:19.405 INFO  Node "DBL Lavalink" connected 
+14:11:19.474 INFO  Node "Something Host" connected 
+14:11:19.607 DEBUG Syncing slash command permissions in 905975867778420747 
+14:12:45.399 INFO  Loading events... 
+14:12:45.525 INFO  Loaded 21 events. Success (21) Failed (0) 
+14:12:45.527 INFO  Loading slash commands... 
+14:12:45.686 INFO  Loaded 72 slash commands 
+14:12:45.688 INFO  Loading contexts... 
+14:12:45.695 INFO  Loaded 2 USER contexts 
+14:12:45.696 INFO  Loaded 0 MESSAGE contexts 
+14:12:46.341 INFO  VersionCheck: Your discord bot is up to date 
+14:12:46.343 INFO  Validating config.js and environment variables 
+14:12:46.346 WARN  env: WEATHERSTACK_KEY is missing. Weather command won't work 
+14:12:46.347 WARN  config.js: OWNER_IDS are empty 
+14:12:46.348 INFO  Launching dashboard 
+14:12:46.669 INFO  Connecting to MongoDb... 
+14:12:46.677 INFO  Dashboard is listening on port 8080 
+14:12:47.144 INFO  Mongoose: Database connection established 
+14:12:47.560 INFO  Logged in as Maxxie#2733! (906013982844923965) 
+14:12:47.563 INFO  Initializing music manager 
+14:12:47.570 INFO  Testing Mode: Skipping Global Commands 
+14:12:47.707 INFO  Guilds with invite tracking: 0 
+14:12:47.709 INFO  Guilds with counter channels: 0 
+14:12:47.712 INFO  Ready to serve 1 guilds! 
+14:12:47.801 INFO  Node "DBL Lavalink" connected 
+14:12:47.834 INFO  Node "Something Host" connected 
+14:12:48.018 DEBUG Syncing slash command permissions in 905975867778420747 
+14:16:54.114 INFO  Loading events... 
+14:16:54.236 INFO  Loaded 21 events. Success (21) Failed (0) 
+14:16:54.238 INFO  Loading slash commands... 
+14:16:54.425 INFO  Loaded 72 slash commands 
+14:16:54.427 INFO  Loading contexts... 
+14:16:54.433 INFO  Loaded 2 USER contexts 
+14:16:54.434 INFO  Loaded 0 MESSAGE contexts 
+14:16:57.270 INFO  VersionCheck: Your discord bot is up to date 
+14:16:57.273 INFO  Validating config.js and environment variables 
+14:16:57.274 WARN  env: WEATHERSTACK_KEY is missing. Weather command won't work 
+14:16:57.277 WARN  config.js: OWNER_IDS are empty 
+14:16:57.278 INFO  Launching dashboard 
+14:16:57.635 INFO  Connecting to MongoDb... 
+14:16:57.644 INFO  Dashboard is listening on port 8080 
+14:16:58.112 INFO  Mongoose: Database connection established 
+14:16:58.580 INFO  Logged in as Maxxie#2733! (906013982844923965) 
+14:16:58.582 INFO  Initializing music manager 
+14:16:58.592 INFO  Testing Mode: Skipping Global Commands 
+14:16:58.729 INFO  Guilds with invite tracking: 0 
+14:16:58.731 INFO  Guilds with counter channels: 0 
+14:16:58.733 INFO  Ready to serve 1 guilds! 
+14:16:58.911 INFO  Node "Something Host" connected 
+14:16:58.960 DEBUG Syncing slash command permissions in 905975867778420747 
+14:16:58.993 INFO  Node "DBL Lavalink" connected 
+14:17:43.202 INFO  Loading events... 
+14:17:43.316 INFO  Loaded 21 events. Success (21) Failed (0) 
+14:17:43.319 INFO  Loading slash commands... 
+14:17:43.491 INFO  Loaded 72 slash commands 
+14:17:43.493 INFO  Loading contexts... 
+14:17:43.499 INFO  Loaded 2 USER contexts 
+14:17:43.500 INFO  Loaded 0 MESSAGE contexts 
+14:17:44.217 INFO  VersionCheck: Your discord bot is up to date 
+14:17:44.222 INFO  Validating config.js and environment variables 
+14:17:44.223 WARN  env: WEATHERSTACK_KEY is missing. Weather command won't work 
+14:17:44.224 WARN  config.js: OWNER_IDS are empty 
+14:17:44.225 INFO  Launching dashboard 
+14:17:44.559 INFO  Connecting to MongoDb... 
+14:17:44.567 INFO  Dashboard is listening on port 8080 
+14:17:44.969 INFO  Mongoose: Database connection established 
+14:17:45.368 INFO  Logged in as Maxxie#2733! (906013982844923965) 
+14:17:45.370 INFO  Initializing music manager 
+14:17:45.377 INFO  Testing Mode: Skipping Global Commands 
+14:17:45.504 INFO  Guilds with invite tracking: 0 
+14:17:45.506 INFO  Guilds with counter channels: 0 
+14:17:45.509 INFO  Ready to serve 1 guilds! 
+14:17:45.546 INFO  Node "DBL Lavalink" connected 
+14:17:45.625 INFO  Node "Something Host" connected 
+14:17:45.779 DEBUG Syncing slash command permissions in 905975867778420747 
+14:19:27.525 INFO  Loading events... 
+14:19:27.639 INFO  Loaded 21 events. Success (21) Failed (0) 
+14:19:27.641 INFO  Loading slash commands... 
+14:19:27.806 INFO  Loaded 72 slash commands 
+14:19:27.808 INFO  Loading contexts... 
+14:19:27.818 INFO  Loaded 2 USER contexts 
+14:19:27.819 INFO  Loaded 0 MESSAGE contexts 
+14:19:28.521 INFO  VersionCheck: Your discord bot is up to date 
+14:19:28.527 INFO  Validating config.js and environment variables 
+14:19:28.528 WARN  env: WEATHERSTACK_KEY is missing. Weather command won't work 
+14:19:28.529 WARN  config.js: OWNER_IDS are empty 
+14:19:28.531 INFO  Launching dashboard 
+14:19:28.905 INFO  Connecting to MongoDb... 
+14:19:28.916 INFO  Dashboard is listening on port 8080 
+14:19:29.406 INFO  Mongoose: Database connection established 
+14:19:29.682 ERROR Cannot read property 'id' of null
+{}
+TypeError: Cannot read property 'id' of null
+    at C:\Users\elfbr\Downloads\discord-js-bot-4.0.0-prerelease\discord-js-bot-4.0.0-prerelease\dashboard\routes\discord.js:12:25
+    at Layer.handle [as handle_request] (C:\Users\elfbr\Downloads\discord-js-bot-4.0.0-prerelease\discord-js-bot-4.0.0-prerelease\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\elfbr\Downloads\discord-js-bot-4.0.0-prerelease\discord-js-bot-4.0.0-prerelease\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\elfbr\Downloads\discord-js-bot-4.0.0-prerelease\discord-js-bot-4.0.0-prerelease\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\elfbr\Downloads\discord-js-bot-4.0.0-prerelease\discord-js-bot-4.0.0-prerelease\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\elfbr\Downloads\discord-js-bot-4.0.0-prerelease\discord-js-bot-4.0.0-prerelease\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\elfbr\Downloads\discord-js-bot-4.0.0-prerelease\discord-js-bot-4.0.0-prerelease\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\elfbr\Downloads\discord-js-bot-4.0.0-prerelease\discord-js-bot-4.0.0-prerelease\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\elfbr\Downloads\discord-js-bot-4.0.0-prerelease\discord-js-bot-4.0.0-prerelease\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\elfbr\Downloads\discord-js-bot-4.0.0-prerelease\discord-js-bot-4.0.0-prerelease\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\elfbr\Downloads\discord-js-bot-4.0.0-prerelease\discord-js-bot-4.0.0-prerelease\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\elfbr\Downloads\discord-js-bot-4.0.0-prerelease\discord-js-bot-4.0.0-prerelease\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\elfbr\Downloads\discord-js-bot-4.0.0-prerelease\discord-js-bot-4.0.0-prerelease\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\elfbr\Downloads\discord-js-bot-4.0.0-prerelease\discord-js-bot-4.0.0-prerelease\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\elfbr\Downloads\discord-js-bot-4.0.0-prerelease\discord-js-bot-4.0.0-prerelease\node_modules\express\lib\router\index.js:275:10)
+    at C:\Users\elfbr\Downloads\discord-js-bot-4.0.0-prerelease\discord-js-bot-4.0.0-prerelease\dashboard\app.js:36:7 
+14:19:29.913 INFO  Logged in as Maxxie#2733! (906013982844923965) 
+14:19:29.921 INFO  Initializing music manager 
+14:19:29.928 INFO  Testing Mode: Skipping Global Commands 
+14:19:30.074 INFO  Guilds with invite tracking: 0 
+14:19:30.076 INFO  Guilds with counter channels: 0 
+14:19:30.079 INFO  Ready to serve 1 guilds! 
+14:19:30.179 INFO  Node "DBL Lavalink" connected 
+14:19:30.185 INFO  Node "Something Host" connected 
+14:19:30.309 DEBUG Syncing slash command permissions in 905975867778420747 
+14:20:38.425 INFO  Loading events... 
+14:20:38.544 INFO  Loaded 21 events. Success (21) Failed (0) 
+14:20:38.546 INFO  Loading slash commands... 
+14:20:38.730 INFO  Loaded 72 slash commands 
+14:20:38.732 INFO  Loading contexts... 
+14:20:38.739 INFO  Loaded 2 USER contexts 
+14:20:38.740 INFO  Loaded 0 MESSAGE contexts 
+14:20:39.148 INFO  VersionCheck: Your discord bot is up to date 
+14:20:39.150 INFO  Validating config.js and environment variables 
+14:20:39.155 WARN  env: WEATHERSTACK_KEY is missing. Weather command won't work 
+14:20:39.158 WARN  config.js: OWNER_IDS are empty 
+14:20:39.158 INFO  Launching dashboard 
+14:20:39.516 INFO  Connecting to MongoDb... 
+14:20:39.525 INFO  Dashboard is listening on port 8080 
+14:20:40.027 INFO  Mongoose: Database connection established 
+14:20:41.064 INFO  Logged in as Maxxie#2733! (906013982844923965) 
+14:20:41.066 INFO  Initializing music manager 
+14:20:41.073 INFO  Testing Mode: Skipping Global Commands 
+14:20:41.206 INFO  Guilds with invite tracking: 0 
+14:20:41.209 INFO  Guilds with counter channels: 0 
+14:20:41.212 INFO  Ready to serve 1 guilds! 
+14:20:41.372 INFO  Node "Something Host" connected 
+14:20:41.413 INFO  Node "DBL Lavalink" connected 
+14:20:41.553 DEBUG Syncing slash command permissions in 905975867778420747 
+14:21:28.725 INFO  Loading events... 
+14:21:28.855 INFO  Loaded 21 events. Success (21) Failed (0) 
+14:21:28.856 INFO  Loading slash commands... 
+14:21:29.031 INFO  Loaded 71 slash commands 
+14:21:29.034 INFO  Loading contexts... 
+14:21:29.042 INFO  Loaded 2 USER contexts 
+14:21:29.044 INFO  Loaded 0 MESSAGE contexts 
+14:21:29.434 INFO  VersionCheck: Your discord bot is up to date 
+14:21:29.436 INFO  Validating config.js and environment variables 
+14:21:29.439 WARN  env: WEATHERSTACK_KEY is missing. Weather command won't work 
+14:21:29.439 WARN  config.js: OWNER_IDS are empty 
+14:21:29.440 INFO  Launching dashboard 
+14:21:29.870 INFO  Connecting to MongoDb... 
+14:21:29.880 INFO  Dashboard is listening on port 8080 
+14:21:30.329 INFO  Mongoose: Database connection established 
+14:21:30.787 INFO  Logged in as Maxxie#2733! (906013982844923965) 
+14:21:30.792 INFO  Initializing music manager 
+14:21:30.798 INFO  Testing Mode: Skipping Global Commands 
+14:21:30.935 INFO  Guilds with invite tracking: 0 
+14:21:30.937 INFO  Guilds with counter channels: 0 
+14:21:30.939 INFO  Ready to serve 1 guilds! 
+14:21:30.970 INFO  Node "DBL Lavalink" connected 
+14:21:31.069 INFO  Node "Something Host" connected 
+14:21:31.242 DEBUG Syncing slash command permissions in 905975867778420747 
+14:22:40.896 INFO  Loading events... 
+14:22:41.228 INFO  Loaded 21 events. Success (21) Failed (0) 
+14:22:41.230 INFO  Loading slash commands... 
+14:22:41.976 INFO  Loaded 71 slash commands 
+14:22:41.978 INFO  Loading contexts... 
+14:22:42.037 INFO  Loaded 2 USER contexts 
+14:22:42.042 INFO  Loaded 0 MESSAGE contexts 
+14:22:42.698 INFO  VersionCheck: Your discord bot is up to date 
+14:22:42.700 INFO  Validating config.js and environment variables 
+14:22:42.703 WARN  env: WEATHERSTACK_KEY is missing. Weather command won't work 
+14:22:42.706 WARN  config.js: OWNER_IDS are empty 
+14:22:42.708 INFO  Connecting to MongoDb... 
+14:23:00.002 INFO  Mongoose: Database connection established 
+14:23:11.149 INFO  Loading events... 
+14:23:11.264 INFO  Loaded 21 events. Success (21) Failed (0) 
+14:23:11.265 INFO  Loading slash commands... 
+14:23:11.425 INFO  Loaded 71 slash commands 
+14:23:11.427 INFO  Loading contexts... 
+14:23:11.435 INFO  Loaded 2 USER contexts 
+14:23:11.437 INFO  Loaded 0 MESSAGE contexts 
+14:23:13.348 INFO  VersionCheck: Your discord bot is up to date 
+14:23:13.350 INFO  Validating config.js and environment variables 
+14:23:13.353 WARN  env: WEATHERSTACK_KEY is missing. Weather command won't work 
+14:23:13.354 WARN  config.js: OWNER_IDS are empty 
+14:23:13.355 INFO  Connecting to MongoDb... 
+14:23:14.321 INFO  Mongoose: Database connection established 
+14:23:14.796 INFO  Logged in as Maxxie#2733! (906013982844923965) 
+14:23:14.798 INFO  Initializing music manager 
+14:23:14.806 INFO  Testing Mode: Skipping Global Commands 
+14:23:15.145 INFO  Guilds with invite tracking: 0 
+14:23:15.147 INFO  Guilds with counter channels: 0 
+14:23:15.150 INFO  Ready to serve 1 guilds! 
+14:23:15.284 INFO  Node "DBL Lavalink" connected 
+14:23:15.394 INFO  Node "Something Host" connected 
+14:23:15.431 DEBUG Syncing slash command permissions in 905975867778420747 
+14:29:30.759 INFO  Loading events... 
+14:29:30.885 INFO  Loaded 21 events. Success (21) Failed (0) 
+14:29:30.886 INFO  Loading slash commands... 
+14:29:31.046 INFO  Loaded 71 slash commands 
+14:29:31.049 INFO  Loading contexts... 
+14:29:31.055 INFO  Loaded 2 USER contexts 
+14:29:31.056 INFO  Loaded 0 MESSAGE contexts 
+14:29:33.504 INFO  VersionCheck: Your discord bot is up to date 
+14:29:33.505 INFO  Validating config.js and environment variables 
+14:29:33.505 WARN  env: WEATHERSTACK_KEY is missing. Weather command won't work 
+14:29:33.506 WARN  config.js: OWNER_IDS are empty 
+14:29:33.506 INFO  Connecting to MongoDb... 
+14:29:33.955 INFO  Mongoose: Database connection established 
+14:29:34.945 INFO  Logged in as Maxxie#2733! (906013982844923965) 
+14:29:34.947 INFO  Initializing music manager 
+14:29:34.956 INFO  Testing Mode: Skipping Global Commands 
+14:29:35.758 INFO  Guilds with invite tracking: 0 
+14:29:35.760 INFO  Guilds with counter channels: 0 
+14:29:35.763 INFO  Ready to serve 1 guilds! 
+14:29:35.866 INFO  Node "DBL Lavalink" connected 
+14:29:36.245 INFO  Node "Something Host" connected 
+14:29:36.468 DEBUG Syncing slash command permissions in 905975867778420747 
+14:29:40.414 INFO  Loading events... 
+14:29:40.530 INFO  Loaded 21 events. Success (21) Failed (0) 
+14:29:40.531 INFO  Loading slash commands... 
+14:29:40.683 INFO  Loaded 71 slash commands 
+14:29:40.687 INFO  Loading contexts... 
+14:29:40.694 INFO  Loaded 2 USER contexts 
+14:29:40.695 INFO  Loaded 0 MESSAGE contexts 
+14:29:41.965 INFO  VersionCheck: Your discord bot is up to date 
+14:29:41.968 INFO  Validating config.js and environment variables 
+14:29:41.971 WARN  env: WEATHERSTACK_KEY is missing. Weather command won't work 
+14:29:41.972 WARN  config.js: OWNER_IDS are empty 
+14:29:41.974 INFO  Connecting to MongoDb... 
+14:29:44.848 INFO  Mongoose: Database connection established 
+14:29:46.191 INFO  Logged in as Maxxie#2733! (906013982844923965) 
+14:29:46.194 INFO  Initializing music manager 
+14:29:46.201 INFO  Testing Mode: Skipping Global Commands 
+14:29:46.604 INFO  Node "Something Host" connected 
+14:29:47.171 INFO  Node "DBL Lavalink" connected 
+14:29:47.347 INFO  Guilds with invite tracking: 0 
+14:29:47.349 INFO  Guilds with counter channels: 0 
+14:29:47.352 INFO  Ready to serve 1 guilds! 
+14:29:47.884 DEBUG Syncing slash command permissions in 905975867778420747 
